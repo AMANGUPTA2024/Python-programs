@@ -1,6 +1,7 @@
 # Python program to check if the number provided by the user is an Armstrong number or not
 # take input from the user
 print("this pull request is made by aman gupta")
+print("this pull request is made by aman gupta")
 number = int(input("Enter a number: "))
 # initialize sum
 sum = 0
